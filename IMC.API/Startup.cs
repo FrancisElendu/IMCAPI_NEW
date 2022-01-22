@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using IMC.API.Services;
+using IMC.API.Settings;
 using IMC.API.TaxJarHttpClient;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -27,6 +28,7 @@ namespace IMC.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.Configure<TaxJarSettings>(Configuration.GetSection(nameof(TaxJarSettings)));
             services.AddScoped<ITaxJarService, TaxJarService>();
             services.AddHttpClient<IHttpClientService, HttpClientService>();
         }

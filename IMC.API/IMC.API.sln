@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMC.API", "IMC.API.csproj", "{084A8B84-9EC8-4DBB-A74A-811E7479E49C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMC.API.Tests", "..\IMC.API.Tests\IMC.API.Tests.csproj", "{6E7C8FC8-9EC1-47A0-832F-08B4B56FEF41}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{084A8B84-9EC8-4DBB-A74A-811E7479E49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{084A8B84-9EC8-4DBB-A74A-811E7479E49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{084A8B84-9EC8-4DBB-A74A-811E7479E49C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6E7C8FC8-9EC1-47A0-832F-08B4B56FEF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6E7C8FC8-9EC1-47A0-832F-08B4B56FEF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6E7C8FC8-9EC1-47A0-832F-08B4B56FEF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6E7C8FC8-9EC1-47A0-832F-08B4B56FEF41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -19,3 +19,4 @@ C:\Users\elcfr\source\repos\IMCAPI_NEW\IMC.API\obj\Debug\netcoreapp3.1\staticweb
 C:\Users\elcfr\source\repos\IMCAPI_NEW\IMC.API\obj\Debug\netcoreapp3.1\IMC.API.dll
 C:\Users\elcfr\source\repos\IMCAPI_NEW\IMC.API\obj\Debug\netcoreapp3.1\IMC.API.pdb
 C:\Users\elcfr\source\repos\IMCAPI_NEW\IMC.API\obj\Debug\netcoreapp3.1\IMC.API.genruntimeconfig.cache
+C:\Users\elcfr\source\repos\IMCAPI_NEW\IMC.API\obj\Debug\netcoreapp3.1\IMC.API.csprojAssemblyReference.cache
