@@ -8,7 +8,6 @@ C:\Users\elcfr\source\repos\IMCAPI_NEW\IMC.API\bin\Debug\netcoreapp3.1\IMC.API.r
 C:\Users\elcfr\source\repos\IMCAPI_NEW\IMC.API\bin\Debug\netcoreapp3.1\IMC.API.dll
 C:\Users\elcfr\source\repos\IMCAPI_NEW\IMC.API\bin\Debug\netcoreapp3.1\IMC.API.pdb
 C:\Users\elcfr\source\repos\IMCAPI_NEW\IMC.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\elcfr\source\repos\IMCAPI_NEW\IMC.API\obj\Debug\netcoreapp3.1\IMC.API.csprojAssemblyReference.cache
 C:\Users\elcfr\source\repos\IMCAPI_NEW\IMC.API\obj\Debug\netcoreapp3.1\IMC.API.AssemblyInfoInputs.cache
 C:\Users\elcfr\source\repos\IMCAPI_NEW\IMC.API\obj\Debug\netcoreapp3.1\IMC.API.AssemblyInfo.cs
 C:\Users\elcfr\source\repos\IMCAPI_NEW\IMC.API\obj\Debug\netcoreapp3.1\IMC.API.csproj.CoreCompileInputs.cache
